@@ -1,7 +1,7 @@
 Maze
 ====
 
-Game that I created in my first semester of college
+Game that I created in college.
 
 Object of the game:
   collect all the boxes in each level.
