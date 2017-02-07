@@ -3,19 +3,19 @@ Maze
 
 Game that I created in my first semester of college
 
-Object:
+Object of the game:
   collect all the boxes in each level.
   currently  there are only 7 levels.
 
 Running
 ====
 
-Download the files and upload them to eclipse (thats the ide I've been using if you choose to use something else thats your choice) Run the Menu2.java file and select start. It's that easy.
+Download the files and upload them to eclipse. Run the Menu2.java file and select start.
 
 
 Directions
 ====
-movement is doing using 'W' 'A' 'S' 'D' on your keyboard.
+movement is done by using 'W' 'A' 'S' 'D' on your keyboard.
 
 
 License
